@@ -138,3 +138,6 @@ Thank you for choosing Aurora International Clinic.
 - **OpenAI GPT-4o-mini** - LLM for routing and extraction
 - **Streamlit** - Web UI with clickable buttons
 - **SQLite** - Simple data persistence
+
+
+[Watch the Demo Video](./.mp4)
