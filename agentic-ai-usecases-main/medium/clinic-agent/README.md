@@ -2,8 +2,6 @@
 
 A simple, end-to-end GenAI chatbot for booking doctor appointments at a clinic using **LangGraph** + **OpenAI** + **Streamlit**.
 
-Read Complete Article [here](https://pub.towardsai.net/agentic-ai-project-build-a-customer-service-chatbot-for-a-clinic-9744ef4a5b25)
-
 ## Features
 
 - ✅ Conversational appointment booking flow
@@ -31,6 +29,8 @@ clinic-agent/
 │   └── test_service.py            # Service unit tests
 ├── ui/
 │   └── chat_ui.py                 # Streamlit UI components
+├── utils/
+│   └── sendmail.py                 # send appointment conifrmation notification
 ├── app.py                         # Main entry point
 ├── clinic-agent.ipynb             # Jupyter notebook for development
 ├── requirements.txt               # Python dependencies
@@ -82,7 +82,7 @@ No regex or hard-coded rules - everything is handled by the LLM!
 - doctor_id, doctor_name, speciality, office_timing
 
 **customers** table:
-- customer_id, name, phone
+- customer_id, name, phone,email
 
 **bookings** table:
 - booking_id, doctor_id, customer_id, appointment_date, appointment_time, status
@@ -92,7 +92,7 @@ No regex or hard-coded rules - everything is handled by the LLM!
 ```
 User: Hi
 
-Assistant: 👋 Welcome to CarePlus Clinic!
+Assistant: 👋 Welcome to Aurora International Clinic!
 I can help you book an appointment with one of our doctors.
 Please choose a speciality:
 [General Physician] [Dermatologist] [Orthopedic] [Pediatrician] [ENT Specialist]
@@ -119,7 +119,7 @@ Assistant: ✅ Appointment Confirmed!
 Booking ID: BKG-102345
 Doctor: Dr. Neha Verma
 Time: Today at 1:00 PM
-Thank you for choosing CarePlus Clinic.
+Thank you for choosing Aurora International Clinic.
 ```
 
 ## Available Doctors
