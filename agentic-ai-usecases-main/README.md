@@ -141,7 +141,9 @@ Thank you for choosing Aurora International Clinic.
 
 
 [Watch the Demo Video](./Customer Service Agent.mp4)
+## Chat UI
 <img width="1849" height="697" alt="Screenshot 2026-04-22 172204" src="https://github.com/user-attachments/assets/ec66d370-a92d-45d1-8a83-2f32a5f266b8" />
+## Email Notification
 <img width="1491" height="636" alt="Screenshot 2026-04-22 172028" src="https://github.com/user-attachments/assets/ba1ec027-836a-4e32-a18a-a1900d7aa2eb" />
 
 
