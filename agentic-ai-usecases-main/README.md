@@ -139,7 +139,7 @@ Thank you for choosing Aurora International Clinic.
 - **Streamlit** - Web UI with clickable buttons
 - **SQLite** - Simple data persistence
 
-<video src="[https://github.com/USER/REPO/raw/main/demo.mp4](https://github.com/talendgi/Customer_Service_Agent/blob/main/agentic-ai-usecases-main/medium/clinic-agent/Customer%20Service%20Agent.mp4)" width="100%" controls autoplay muted loop></video>
+<video src="https://github.com/talendgi/Customer_Service_Agent/blob/main/agentic-ai-usecases-main/medium/clinic-agent/Customer%20Service%20Agent.mp4" width="100%" controls autoplay muted loop></video>
 
 [Watch the Demo Video](./Customer Service Agent.mp4)
 ## Chat UI
