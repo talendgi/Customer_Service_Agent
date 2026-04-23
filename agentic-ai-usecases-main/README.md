@@ -139,6 +139,7 @@ Thank you for choosing Aurora International Clinic.
 - **Streamlit** - Web UI with clickable buttons
 - **SQLite** - Simple data persistence
 
+<video src="https://github.com/USER/REPO/raw/main/demo.mp4" width="100%" controls autoplay muted loop></video>
 
 [Watch the Demo Video](./Customer Service Agent.mp4)
 ## Chat UI
