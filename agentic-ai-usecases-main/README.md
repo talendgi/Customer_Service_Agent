@@ -150,4 +150,9 @@ Thank you for choosing Aurora International Clinic.
 ## Email Notification
 <img width="1491" height="636" alt="Screenshot 2026-04-22 172028" src="https://github.com/user-attachments/assets/ba1ec027-836a-4e32-a18a-a1900d7aa2eb" />
 
+## Database update
+
+<img width="1556" height="702" alt="Screenshot 2026-04-22 194253" src="https://github.com/user-attachments/assets/74b7f11f-8dff-4f3c-9f58-1c7ba7137efc" />
+
+
 
