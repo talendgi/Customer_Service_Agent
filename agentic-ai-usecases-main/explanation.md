@@ -641,9 +641,7 @@ Database + Email
 
 ---
 
-# WHY THIS ARCHITECTURE IS POWERFUL
-
-This is production-grade because it has:
+production-grade use cases:
 
 ✅ state management
 ✅ workflow orchestration
@@ -657,9 +655,6 @@ This is production-grade because it has:
 
 ---
 
-# IMPORTANT DESIGN PATTERN
-
-This project uses:
 
 ## Hybrid AI Architecture
 
